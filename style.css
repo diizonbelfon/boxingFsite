@@ -62,7 +62,7 @@ body{
 
 #showcase {
   min-height:799px;
-  background:url('../diiz3.jpg') no-repeat center;
+  background:url('img/diiz3.jpg') no-repeat center;
   background-size:cover;
   text-align:;
   color:#4d534f;
@@ -81,7 +81,7 @@ body{
 
 #showcase2 {
   min-height:765px;
-  background:url("../diiz2.jpg") no-repeat center;
+  background:url("img/diiz2.jpg") no-repeat center;
   background-size:cover;
   text-align:center;
   color:#ffffff;
